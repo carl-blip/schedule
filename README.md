@@ -1,5 +1,5 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# SHCEDULE
+SCHEDULE  App.
 
 # Features
 * Share Projects
@@ -13,7 +13,7 @@ TechFolio Mobile App.
 * User Registration & Authenticaiton
 * Deployment
 
-# Tech Stack
+# SHCED Stack
 * React Native
 * AppWrite
 * HTML, CSS and JS
