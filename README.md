@@ -1,4 +1,4 @@
-# SHCEDULE
+# SCHEDULE
 SCHEDULE  App.
 
 # Features
@@ -13,7 +13,7 @@ SCHEDULE  App.
 * User Registration & Authenticaiton
 * Deployment
 
-# SHCED Stack
+# TECH Stack
 * React Native
 * AppWrite
 * HTML, CSS and JS
