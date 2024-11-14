@@ -14,7 +14,8 @@ export default function App() {
         <View className="flex-1">
         <Text className="text-4xl font-rblack text-yellow-500">Welcome to your</Text>
         <Text className="text-5xl font-rblack text-blue-500">Schedule</Text>
-        <Link href="/login" className="text-2xl font-bold text-white">Go to login</Link>
+        <Link href="/login" className="text-2xl font-bold text-white bg-black pl-12">Go to login</Link>
+        <Link href="/sign-up" className="text-2xl font-bold text-white">Go to signup</Link>
         </View>
       </View>
       

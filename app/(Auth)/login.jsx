@@ -9,9 +9,9 @@ const Login = () => {
   }
 
   return (
-    <View className="flex-1 items-center justify-center  bg-stone-500">
-      <View className=" w-full h-full flex-1 position-relative pl-8">
-          <Image source={require('../assets/cutie.jpg')}></Image>
+    <View className="flex-1 items-center justify-center ">
+      <View className=" w-full h-full flex-1 position-relative pl-6">
+          
         </View>
         
         <View className="flex-1 w-full h-12 pl-4 pr-4 pb-24 mt-10">
