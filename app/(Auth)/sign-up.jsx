@@ -10,7 +10,7 @@ const Signup = () => {
   };
 
   return (
-    <View className="flex-1 items-center justify-center">
+    <View className="flex-1 items-center justify-center bg-gray-500">
       <View className="w-full h-full flex-1 position-relative pl-6">
       </View>
 
