@@ -21,8 +21,8 @@ SCHEDULE  App.
 # Sign Up Screen
 <img src="assets/images/signup.jpg">  
 
-# Sign In Screen
+# login Screen
 <img src="assets/login.jpg">  
 
 # Tabs Screen
-<img src="assets/tabs icons.jpg">  
+<img src="assets/tabs screen.jpg">  
