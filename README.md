@@ -22,7 +22,7 @@ SCHEDULE  App.
 <img src="assets/images/signup.jpg">  
 
 # login Screen
-<img src="assets/login.jpg">  
+<img src="assets/images/login.jpg">  
 
 # Tabs Screen
-<img src="assets/tabs screen.jpg">  
+<img src="assets/images/tabs screen.jpg">  
